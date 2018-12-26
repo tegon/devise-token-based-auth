@@ -1,24 +1,19 @@
-# README
+# Devise token-based authentication example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the sample application created for the [Custom authentication methods with Devise]() blog post.
 
-Things you may want to cover:
+## Setup
+To setup the application, run the `bin/setup` script.
 
-* Ruby version
+```bash
+bin/setup
+```
 
-* System dependencies
+This will install the dependencies, setup the database and start the server.
 
-* Configuration
+## Dependencies
+This application was created using the following dependencies versions:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Postgres: 10.5
+- Ruby: 2.5.1
+- Rails: 5.2.2
