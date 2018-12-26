@@ -1,0 +1,5 @@
+{
+  "name": "devise-token-based-auth",
+  "private": true,
+  "dependencies": {}
+}
