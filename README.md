@@ -1,6 +1,6 @@
 # Devise token-based authentication example
 
-This is the sample application created for the [Custom authentication methods with Devise]() blog post.
+This is the sample application created for the [Custom authentication methods with Devise](http://blog.plataformatec.com.br/2019/01/custom-authentication-methods-with-devise/) blog post.
 
 ## Setup
 To setup the application, run the `bin/setup` script.
